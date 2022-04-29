@@ -3,8 +3,6 @@
 
 **2022.4.29 Update**
 
-All default settings with 1/3 and 2/3 batch generating. 
-
 <img src="img/img01.png" width="40%"><img src="img/img02.png" width="40%">
 
 **Text:** ["room is gradually like a universe without companion","impressionism style","light blue"]
