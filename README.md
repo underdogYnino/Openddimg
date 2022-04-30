@@ -11,7 +11,7 @@
 
 **2022.4.29 Update**
 
-<img src="img/img03.png" width="40%"><img src="img/Img(1)_0.png" width="40%"><img src="img/Img(1)_1.png" width="40%"><img src="img/Img(1)_3.png" width="40%">
+<img src="img/img03.png" width="40%"><img src="img/Img(1)_0.png" width="40%"><img src="img/Img(1)_1.png" width="40%"><img src="img/Img(1)_2.png" width="40%">
 
 **Text:** ["room is gradually like a universe without companion","impressionism style","light blue"]
 
