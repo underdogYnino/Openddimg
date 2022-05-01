@@ -4,14 +4,11 @@
   
 **2022.5.1 Update**
 
-
-
-
 <img src="img/img(3)_0.png" width="40%"><img src="img/img(3)_1.png" width="40%"><img src="img/img(3)_2.png" width="40%"><img src="img/img(3)_3.png" width="40%">
   
 **Text:** ["we exist and connot touch the country beneath our feet Ten steps away we cannot hear our language","impressionism style","orange scheme"]
 
-
+</br><br>
 
 <img src="img/img(4)_0.png" width="40%"><img src="img/img(4)_1.png" width="40%"><img src="img/img(4)_2.png" width="40%"><img src="img/img(4)_3.png" width="40%">
   
@@ -19,9 +16,8 @@
 
 </br><br>
 
+
 **2022.4.30 Update**
-
-
 
 <img src="img/Img(2)_0.png" width="40%"><img src="img/Img(2)_1.png" width="40%"><img src="img/Img(2)_2.png" width="40%"><img src="img/Img(2)_3.png" width="40%">
 
@@ -29,12 +25,8 @@
   
 </br><br> 
 
-
 **2022.4.29 Update**
 
-
-
 <img src="img/img03.png" width="40%"><img src="img/Img(1)_0.png" width="40%"><img src="img/Img(1)_1.png" width="40%"><img src="img/Img(1)_2.png" width="40%">
-
 
 **Text:** ["room is gradually like a universe without companion","impressionism style","light blue"]
