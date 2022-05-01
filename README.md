@@ -9,7 +9,7 @@
 
 <img src="img/img(3)_0.png" width="40%"><img src="img/img(3)_1.png" width="40%"><img src="img/img(3)_2.png" width="40%"><img src="img/img(3)_3.png" width="40%">
   
-  
+</br><br>  
 
 
 **Text:** ["he calls scrape those fiddles more darkly then as smoke you'll rise in the air","impressionism style","grey scheme"]
